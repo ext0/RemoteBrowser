@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteBrowser", "RemoteBrowser\RemoteBrowser.csproj", "{D16E4552-3C1C-4E9E-959D-7D5B5166C3CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteBrowserStub", "RemoteBrowserStub\RemoteBrowserStub.csproj", "{ABE0D798-4516-495E-846A-97CE4CAA6B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicCookieLibrary", "DynamicCookieLibrary\DynamicCookieLibrary.csproj", "{C7EAC08D-1B2B-48EF-919B-9D2B50DDDB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16E4552-3C1C-4E9E-959D-7D5B5166C3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16E4552-3C1C-4E9E-959D-7D5B5166C3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16E4552-3C1C-4E9E-959D-7D5B5166C3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16E4552-3C1C-4E9E-959D-7D5B5166C3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE0D798-4516-495E-846A-97CE4CAA6B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE0D798-4516-495E-846A-97CE4CAA6B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE0D798-4516-495E-846A-97CE4CAA6B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE0D798-4516-495E-846A-97CE4CAA6B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7EAC08D-1B2B-48EF-919B-9D2B50DDDB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EAC08D-1B2B-48EF-919B-9D2B50DDDB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EAC08D-1B2B-48EF-919B-9D2B50DDDB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EAC08D-1B2B-48EF-919B-9D2B50DDDB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
